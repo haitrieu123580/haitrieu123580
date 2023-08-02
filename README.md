@@ -4,20 +4,6 @@
 
 - 🌱 I’m currently studying **[Danang University of Technology](https://dut.udn.vn/) (DUT).**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/trieuhuynh202" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/38/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/haitrieu123580" alt="Github">
-    <img src="https://img.icons8.com/fluent/38/000000/github.png"/>
-  </a> 
-  <a href="mailto:haitrieu123580@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/color/38/null/gmail--v1.png"/>
-  </a>
-</p>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
@@ -55,3 +41,16 @@
     </td>
   </tr>
 </table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.facebook.com/trieuhuynh202" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/38/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/haitrieu123580" alt="Github">
+    <img src="https://img.icons8.com/fluent/38/000000/github.png"/>
+  </a> 
+  <a href="mailto:haitrieu123580@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/color/38/null/gmail--v1.png"/>
+  </a>
+</p>
+</p>
