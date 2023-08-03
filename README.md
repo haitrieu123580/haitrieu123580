@@ -5,7 +5,8 @@
 - 🌱 I’m currently studying **[Danang University of Technology](https://dut.udn.vn/) (DUT).**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="left" style="display: flex;
+    justify-content: space-around;"> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -24,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
+</div>
 <h3 align="left">Activities:</h3>
 <table align="center" style="width:100%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;">
   <tr style="width:80%;">
@@ -42,7 +43,7 @@
   </tr>
 </table>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left" style="display: flex;flex-direction: column;">
   <a href="https://www.facebook.com/trieuhuynh202" alt="Facebook">
     <img src="https://img.icons8.com/fluent/38/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -52,5 +53,5 @@
   <a href="mailto:haitrieu123580@gmail.com" alt="Email">
     <img src="https://img.icons8.com/color/38/null/gmail--v1.png"/>
   </a>
-</p>
-</p>
+</div>
+
