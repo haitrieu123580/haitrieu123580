@@ -3,6 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 - 🌱 I’m currently studying **[Danang University of Technology](https://dut.udn.vn/) (DUT).**
+- <a href="https://trieuhth.vercel.app/" style="text-decoration:none">See more ^-^</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex;
